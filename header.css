@@ -1,0 +1,24 @@
+html{
+    box-sizing: border-box;
+}
+*,::before,::after{
+    box-sizing: inherit;
+}
+
+.header {
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    font-size: 45px;
+    color: black;
+    text-shadow: 3px 3px 2px green;
+
+}
+
+.header__name{
+    color: #CDDC39;
+    text-shadow: 3px 3px 2px black;
+}
+    

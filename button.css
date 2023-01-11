@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit
+}
+
+.button {
+    color: rgb(88, 195, 106);
+    background-color: black;
+    text-align: center;
+
+}

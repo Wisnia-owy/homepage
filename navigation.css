@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+
+*::before, ::after {
+    box-sizing: inherit;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,184 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after ,::before {
+    box-sizing: inherit;
+}
+
+.body {
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lato', sans-serif;
+    background-color: gray;
+}
+
+.header {
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    font-size: 45px;
+    color: black;
+    text-shadow: 3px 3px 2px green;
+
+}
+
+.Owy {
+    color: #CDDC39;
+    text-shadow: 3px 3px 2px black;
+}
+
+.image {
+    margin-left: 43%;
+    border-radius: 30px;
+    box-shadow: 35px -25px 51px -8px #232120;
+}
+
+.buttonElement {
+    color: green;
+    background-color: black;
+    margin-left: 44%;
+}
+
+.Moje {
+    border: 2px dotted black;
+    background-color: green;
+    padding: auto;
+    text-align: center;
+    border-radius: 25%;
+}
+
+
+
+.listItem {
+    margin: 10px 0;
+    list-style-type: none;
+    border: green solid;
+    margin-right: 60%;
+    text-align: center;
+    border-radius: 30%;
+    outline: 1px solid black;
+}
+
+.zespołyHC {
+    color: rgb(4, 66, 4);
+}
+
+.usaRap {
+    color: rgb(4, 66, 4);
+}
+
+.plRap {
+    color: rgb(4, 66, 4);
+}
+
+.gzk {
+    color: rgb(4, 66, 4);
+}
+
+.off {
+    color: rgb(4, 66, 4);
+    ;
+}
+
+.polscyRaperzy {
+    color: rgb(4, 66, 4);
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.noFoto {
+    display: none;
+}
+
+.R {
+    text-decoration: none;
+    color: rgb(4, 66, 4);
+}
+
+.tableCell {
+    border: 1px solid rgb(4, 7, 4);
+    padding: 7px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.tableHeader {
+    background-color: green;
+    color: black;
+    font-weight: bolder;
+}
+.tableRow:nth-child(even){
+    background-color:rgb(27, 111, 27);
+
+}
+.tableRow:hover{
+    background-color:yellowgreen ;
+}
+.container{
+    overflow-x: auto;
+}
+.rapL{
+    text-decoration: none;
+    color: rgb(7, 68, 7);
+}
+.mojeLinki{
+    text-align:right;
+    font-size: 25px;
+    text-shadow:2px 2px 1px green;
+    margin-right: 15px;
+
+}
+.strony{
+    list-style-type:none;
+    font: size 10px;
+    color: green;
+    text-shadow:2px 2px 1px black;
+}
+.mojeStrony{
+    text-decoration: none;
+    font-size: 22px;
+    color: green;
+    text-shadow:2px 2px 1px black;
+}
+.copyR{
+    border: 2px dotted;
+    text-align: center;
+    padding: auto;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: black;
+    background-color: green;
+}
+.Klipy{
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: green;
+    text-shadow: 2px 2px 3px black;
+}
+.whiteBackground{
+    background: none;
+    
+}
+.changeBackground{
+    color: green;
+    background-color: black;
+    margin-left: 40.5%;
+
+}

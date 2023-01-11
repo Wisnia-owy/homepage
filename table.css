@@ -1,0 +1,59 @@
+tml {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.table__caption {
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: green;
+    text-shadow: 2px 2px 3px black;
+
+}
+
+.tableCell {
+    border: 1px solid rgb(4, 7, 4);
+    padding: 7px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.table__tableRow:nth-child(even){
+    background-color:rgb(27, 111, 27);
+
+}
+.table__tableRow:hover{
+    background-color:yellowgreen ;
+}
+.table__tableCell--tableHeader{
+    background-color: green;
+    color: black;
+    font-weight: bolder;
+
+}
+
+.table__container{
+        overflow-x: auto;
+}
+.table__element{
+    text-decoration: none;
+    color: rgb(7, 68, 7);
+
+}
+.table__link{
+    text-decoration: none;
+    color: rgb(7, 68, 7);
+
+
+}

@@ -1,0 +1,17 @@
+html{
+    box-sizing: border-box;
+}
+*.::before ,::after{
+    box-sizing: inherit;
+}
+
+.footer{
+    border: 2px dotted;
+    text-align: center;
+    padding: auto;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: black;
+    background-color: green;
+}
