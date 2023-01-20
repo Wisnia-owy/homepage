@@ -1,6 +1,6 @@
 # Lukasz Wisniewski - home page]
 
-![Wiśnia](https://github.com/Wisnia-owy/homepage/blob/main/foto%20koncert.jpeg?raw=true)
+![Wiśnia](https://github.com/Wisnia-owy/homepage/blob/main/images/foto%20koncert.jpeg?raw=true)
 
 ## demo
 
