@@ -1,4 +1,4 @@
-console.log("Witam cię u mnie po raz kolejny.Ten kod jest juz w repozytoriom git.")
+console.log("Witam cię u mnie po raz kolejny.Ten kod jest juz w repozytoriom git drugi raz.")
 
 let button = document.querySelector(".button__js-removeImage");
 let image = document.querySelector(".image");
